@@ -6,6 +6,7 @@
 class Player {
     public:
     explicit Player(int id):id{id} {};
+    ~Player(){std::cout << "the destructor of the player "<< Player::name<<" has been deleted"<<std::endl;}
     void setname(std::string name);
     std::string getname();
     int getId();

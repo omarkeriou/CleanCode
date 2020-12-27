@@ -10,5 +10,8 @@ int main(void){
 auto list =beginGame();
 AddNewPlayer(std::string("Omar"),list);
 AddNewPlayer(std::string("Cyrine"),list);
+AddNewPlayer(std::string("Ahmed"),list);
+
+RemovePlayer(4,list);
 
 }
