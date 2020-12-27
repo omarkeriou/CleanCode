@@ -20,6 +20,8 @@ std::string Player::getname(){return Player::name;};
 void Player::setname(std::string name){
     Player::name=name;
     std::cout<<"Welcome "<< "Player "<<Player::id<<": "<<Player::name<<" to the Game!"<<std::endl;};
+
+int Player::getId(){return Player::id;};
 using PlayerPtr =std::unique_ptr<Player>;    
 
 #endif

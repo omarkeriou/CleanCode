@@ -3,10 +3,12 @@
 #include <memory>
 #include <string>
 #include  "registerPlayer.h"
+#include "PlayerList.h"
 int main(void){
      
-     
-AddNewPlayer(std::string("Omar"));
-AddNewPlayer(std::string("Cyrine"));
+
+auto list =beginGame();
+AddNewPlayer(std::string("Omar"),list);
+AddNewPlayer(std::string("Cyrine"),list);
 
 }
