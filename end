@@ -1,0 +1,23 @@
+[33mcommit f31e4f7cd537b76af742802db41866396179ab30[m[33m ([m[1;36mHEAD -> [m[1;32mCreatePlyaerremoval[m[33m, [m[1;31morigin/omarkeriou/issue1[m[33m, [m[1;32momarkeriou/issue1[m[33m)[m
+Author: omarkeriou <omar.keriou@outlook.de>
+Date:   Sun Dec 27 22:30:53 2020 +0100
+
+    The new method RemovePlayer has been implemented
+
+[33mcommit 0853832746827cd622d4484f02d0b690a0e6e0fd[m[33m ([m[1;31morigin/CreatePlyaerremoval[m[33m)[m
+Author: omarkeriou <omar.keriou@outlook.de>
+Date:   Sun Dec 27 17:17:55 2020 +0100
+
+    The Playerlist Class has been implemented
+
+[33mcommit 13cb1cba2d82edae62dcb4931fdf8a5a10840f9e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m, [m[1;32mmain[m[33m)[m
+Author: omarkeriou <omar.keriou@outlook.de>
+Date:   Sun Dec 27 12:17:42 2020 +0100
+
+    This is the first commit
+
+[33mcommit c31b2d93a8e1d92392866f4bc15e1e8618b53bc3[m
+Author: omarkeriou <72276151+omarkeriou@users.noreply.github.com>
+Date:   Sun Dec 27 12:04:13 2020 +0100
+
+    Initial commit
